@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CLTR_7 Pin=U3-10
+Removed Pin From Net: NetName=CLTR_8 Pin=U3-11
+Removed Pin From Net: NetName=CLTR_9 Pin=U3-12
+Removed Pin From Net: NetName=CLTR_6 Pin=U3-27
+Removed Pin From Net: NetName=CLTR_5 Pin=U3-28
+Removed Pin From Net: NetName=CLTR_4 Pin=U3-29
+Removed Pin From Net: NetName=CLTR_2 Pin=U3-30
+Removed Pin From Net: NetName=CLTR_1 Pin=U3-31
+Added Pin To Net: NetName=CLTR_1 Pin=U3-10
+Added Pin To Net: NetName=CLTR_2 Pin=U3-11
+Added Pin To Net: NetName=CLTR_4 Pin=U3-12
+Added Pin To Net: NetName=CLTR_9 Pin=U3-27
+Added Pin To Net: NetName=CLTR_8 Pin=U3-28
+Added Pin To Net: NetName=CLTR_7 Pin=U3-29
+Added Pin To Net: NetName=CLTR_6 Pin=U3-30
+Added Pin To Net: NetName=CLTR_5 Pin=U3-31

@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=P_9 Pin=J3-9
+Removed Pin From Net: NetName=P_10 Pin=J3-10
+Removed Pin From Net: NetName=P_10 Pin=R8-2
+Removed Pin From Net: NetName=CLTR_1 Pin=R9-1
+Removed Pin From Net: NetName=CLTR_2 Pin=R10-1
+Removed Pin From Net: NetName=CLTR_10 Pin=R11-1
+Removed Pin From Net: NetName=CLTR_5 Pin=R14-1
+Removed Pin From Net: NetName=CLTR_6 Pin=R15-1
+Removed Pin From Net: NetName=CLTR_8 Pin=R17-1
+Removed Pin From Net: NetName=CLTR_9 Pin=R19-1
+Removed Pin From Net: NetName=P_9 Pin=R32-2
+Removed Pin From Net: NetName=CLTR_1 Pin=U3-10
+Removed Pin From Net: NetName=CLTR_2 Pin=U3-11
+Removed Pin From Net: NetName=CLTR_10 Pin=U3-26
+Removed Pin From Net: NetName=CLTR_9 Pin=U3-27
+Removed Pin From Net: NetName=CLTR_8 Pin=U3-28
+Removed Pin From Net: NetName=CLTR_6 Pin=U3-30
+Removed Pin From Net: NetName=CLTR_5 Pin=U3-31
+Removed Pin From Net: NetName=CLTR_1 Pin=U4-4
+Removed Pin From Net: NetName=CLTR_2 Pin=U5-4
+Removed Pin From Net: NetName=CLTR_4 Pin=U6-4
+Removed Pin From Net: NetName=CLTR_5 Pin=U7-4
+Removed Pin From Net: NetName=CLTR_6 Pin=U8-4
+Removed Pin From Net: NetName=CLTR_7 Pin=U9-4
+Removed Pin From Net: NetName=CLTR_8 Pin=U10-4
+Removed Pin From Net: NetName=CLTR_9 Pin=U11-4
+Removed Pin From Net: NetName=CLTR_10 Pin=U12-4
+Added Pin To Net: NetName=P_10 Pin=J3-9
+Added Pin To Net: NetName=CLTR_1 Pin=J3-10
+Added Pin To Net: NetName=CLTR_1 Pin=R8-2
+Added Pin To Net: NetName=CLTR_8 Pin=R9-1
+Added Pin To Net: NetName=CLTR_10 Pin=R10-1
+Added Pin To Net: NetName=CLTR_9 Pin=R11-1
+Added Pin To Net: NetName=CLTR_6 Pin=R14-1
+Added Pin To Net: NetName=CLTR_2 Pin=R15-1
+Added Pin To Net: NetName=CLTR_5 Pin=R17-1
+Added Pin To Net: NetName=P_9 Pin=R19-1
+Added Pin To Net: NetName=P_10 Pin=R32-2
+Added Pin To Net: NetName=CLTR_8 Pin=U3-10
+Added Pin To Net: NetName=CLTR_10 Pin=U3-11
+Added Pin To Net: NetName=CLTR_9 Pin=U3-26
+Added Pin To Net: NetName=P_9 Pin=U3-27
+Added Pin To Net: NetName=CLTR_5 Pin=U3-28
+Added Pin To Net: NetName=CLTR_2 Pin=U3-30
+Added Pin To Net: NetName=CLTR_6 Pin=U3-31
+Added Pin To Net: NetName=P_1 Pin=U4-4
+Added Pin To Net: NetName=P_2 Pin=U5-4
+Added Pin To Net: NetName=P_4 Pin=U6-4
+Added Pin To Net: NetName=P_5 Pin=U7-4
+Added Pin To Net: NetName=P_6 Pin=U8-4
+Added Pin To Net: NetName=P_7 Pin=U9-4
+Added Pin To Net: NetName=P_8 Pin=U10-4
+Added Pin To Net: NetName=P_10 Pin=U11-4
+Added Pin To Net: NetName=CLTR_1 Pin=U12-4
+Change Net Name : Old Net Name=CLTR_1 New Net Name=IGNITION POWER
+Change Net Name : Old Net Name=CLTR_2 New Net Name=ESP_SL
+Change Net Name : Old Net Name=CLTR_4 New Net Name=ESP_RT
+Change Net Name : Old Net Name=CLTR_5 New Net Name=ESP_REV
+Change Net Name : Old Net Name=CLTR_6 New Net Name=ESP_PR
+Change Net Name : Old Net Name=CLTR_7 New Net Name=ESP_PL
+Change Net Name : Old Net Name=CLTR_8 New Net Name=ESP_LT
+Change Net Name : Old Net Name=CLTR_9 New Net Name=ESP_IGNSIG
+Change Net Name : Old Net Name=CLTR_10 New Net Name=ESP_FOG
+Change Net Name : Old Net Name=P_1 New Net Name=LEFT TURN
+Change Net Name : Old Net Name=P_2 New Net Name=FOG LIGHT
+Change Net Name : Old Net Name=P_4 New Net Name=RIGHT TURN
+Change Net Name : Old Net Name=P_5 New Net Name=PARK LIGHTS (R)
+Change Net Name : Old Net Name=P_6 New Net Name=STOP LIGHTS
+Change Net Name : Old Net Name=P_7 New Net Name=PARK LIGHTS (L)
+Change Net Name : Old Net Name=P_8 New Net Name=REVERSE LIGHTS
+Change Net Name : Old Net Name=P_9 New Net Name=ESP_BATSIG
+Change Net Name : Old Net Name=P_10 New Net Name=BATTERY POWER

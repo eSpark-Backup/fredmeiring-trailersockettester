@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [FRED_MIERING.PrjPCB]
+   Generated File[Pick Place for Fred_ New.txt]
+   Generated File[Pick Place for Fred_ New.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 1:35:10 PM On 3/25/2020

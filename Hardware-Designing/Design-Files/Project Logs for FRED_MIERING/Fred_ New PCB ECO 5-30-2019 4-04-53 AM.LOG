@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=3_GND Pin=D3-1
+Removed Pin From Net: NetName=AN_10 Pin=D3-2
+Removed Pin From Net: NetName=AN_4 Pin=D4-2
+Removed Pin From Net: NetName=AN_5 Pin=D5-2
+Removed Pin From Net: NetName=AN_6 Pin=D6-2
+Removed Pin From Net: NetName=AN_7 Pin=D7-2
+Removed Pin From Net: NetName=GND_1 Pin=D8-1
+Removed Pin From Net: NetName=AN_8 Pin=D8-2
+Removed Pin From Net: NetName=2_GND Pin=D9-1
+Removed Pin From Net: NetName=AN_9 Pin=D9-2
+Removed Pin From Net: NetName=AN_4 Pin=U7-1
+Removed Pin From Net: NetName=Cath_4 Pin=U7-2
+Removed Pin From Net: NetName=CLTR_4 Pin=U7-4
+Removed Pin From Net: NetName=AN_5 Pin=U8-1
+Removed Pin From Net: NetName=Cath_5 Pin=U8-2
+Removed Pin From Net: NetName=CLTR_5 Pin=U8-4
+Removed Pin From Net: NetName=AN_6 Pin=U9-1
+Removed Pin From Net: NetName=Cath_6 Pin=U9-2
+Removed Pin From Net: NetName=CLTR_6 Pin=U9-4
+Removed Pin From Net: NetName=AN_7 Pin=U10-1
+Removed Pin From Net: NetName=Cath_7 Pin=U10-2
+Removed Pin From Net: NetName=CLTR_7 Pin=U10-4
+Removed Pin From Net: NetName=AN_8 Pin=U11-1
+Removed Pin From Net: NetName=Cath_8 Pin=U11-2
+Removed Pin From Net: NetName=CLTR_8 Pin=U11-4
+Removed Pin From Net: NetName=AN_9 Pin=U12-1
+Removed Pin From Net: NetName=Cath_9 Pin=U12-2
+Removed Pin From Net: NetName=CLTR_9 Pin=U12-4
+Removed Pin From Net: NetName=AN_10 Pin=U13-1
+Removed Pin From Net: NetName=Cath_10 Pin=U13-2
+Removed Pin From Net: NetName=GND Pin=U13-3
+Removed Pin From Net: NetName=CLTR_10 Pin=U13-4
+Removed Member From Class: ClassName=U_Opto_Section Member=U13
+Added Component: Designator=T1(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T2(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T3(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T4(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T5(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T6(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U6(PC3H712NIP1H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Socle Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PC3H712NIP1H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.87, 10=0.678, 25=0.5616, 100=0.484, 250=0.42592, 500=0.36784, 1000=0.2904 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "61000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1855-1008-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_1 Pin=D3-1
+Added Pin To Net: NetName=AN_4 Pin=D3-2
+Added Pin To Net: NetName=AN_5 Pin=D4-2
+Added Pin To Net: NetName=AN_6 Pin=D5-2
+Added Pin To Net: NetName=AN_7 Pin=D6-2
+Added Pin To Net: NetName=AN_8 Pin=D7-2
+Added Pin To Net: NetName=2_GND Pin=D8-1
+Added Pin To Net: NetName=AN_9 Pin=D8-2
+Added Pin To Net: NetName=3_GND Pin=D9-1
+Added Pin To Net: NetName=AN_10 Pin=D9-2
+Added Pin To Net: NetName=3V3 Pin=T1-1
+Added Pin To Net: NetName=VBUS Pin=T2-1
+Added Pin To Net: NetName=VBAT Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T4-1
+Added Pin To Net: NetName=TX Pin=T5-1
+Added Pin To Net: NetName=RX Pin=T6-1
+Added Pin To Net: NetName=AN_4 Pin=U6-1
+Added Pin To Net: NetName=Cath_4 Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=CLTR_4 Pin=U6-4
+Added Pin To Net: NetName=AN_5 Pin=U7-1
+Added Pin To Net: NetName=Cath_5 Pin=U7-2
+Added Pin To Net: NetName=CLTR_5 Pin=U7-4
+Added Pin To Net: NetName=AN_6 Pin=U8-1
+Added Pin To Net: NetName=Cath_6 Pin=U8-2
+Added Pin To Net: NetName=CLTR_6 Pin=U8-4
+Added Pin To Net: NetName=AN_7 Pin=U9-1
+Added Pin To Net: NetName=Cath_7 Pin=U9-2
+Added Pin To Net: NetName=CLTR_7 Pin=U9-4
+Added Pin To Net: NetName=AN_8 Pin=U10-1
+Added Pin To Net: NetName=Cath_8 Pin=U10-2
+Added Pin To Net: NetName=CLTR_8 Pin=U10-4
+Added Pin To Net: NetName=AN_9 Pin=U11-1
+Added Pin To Net: NetName=Cath_9 Pin=U11-2
+Added Pin To Net: NetName=CLTR_9 Pin=U11-4
+Added Pin To Net: NetName=AN_10 Pin=U12-1
+Added Pin To Net: NetName=Cath_10 Pin=U12-2
+Added Pin To Net: NetName=CLTR_10 Pin=U12-4
+Added Member To Class: ClassName=Top_Sheet Member=Component T1 Socket
+Added Member To Class: ClassName=Top_Sheet Member=Component T2 Socket
+Added Member To Class: ClassName=Top_Sheet Member=Component T3 Socket
+Added Member To Class: ClassName=Top_Sheet Member=Component T4 Socket
+Added Member To Class: ClassName=Top_Sheet Member=Component T5 Socket
+Added Member To Class: ClassName=Top_Sheet Member=Component T6 Socket
+Added Member To Class: ClassName=U_Opto_Section Member=Component U6 PC3H712NIP1H

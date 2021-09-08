@@ -1,0 +1,42 @@
+Added Component: Designator=J3(B13B-PH-K-S(LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.13inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Detent"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "27.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B13B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.079inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.59, 10=0.549, 100=0.4206, 500=0.36574, 1000=0.30173, 5000=0.26516, 10000=0.24687 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5302"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1715-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Press-Fit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LEFT TURN Pin=J3-1
+Added Pin To Net: NetName=FOG LIGHT Pin=J3-2
+Added Pin To Net: NetName=GND_1 Pin=J3-3
+Added Pin To Net: NetName=RIGHT TURN Pin=J3-4
+Added Pin To Net: NetName=PARK LIGHTS (R) Pin=J3-5
+Added Pin To Net: NetName=STOP LIGHTS Pin=J3-6
+Added Pin To Net: NetName=PARK LIGHTS (L) Pin=J3-7
+Added Pin To Net: NetName=REVERSE LIGHTS Pin=J3-8
+Added Pin To Net: NetName=BATTERY POWER Pin=J3-9
+Added Pin To Net: NetName=IGNITION POWER Pin=J3-10
+Added Pin To Net: NetName=2_GND Pin=J3-11
+Added Pin To Net: NetName=Break_ Pin=J3-12
+Added Pin To Net: NetName=3_GND Pin=J3-13
+Added Member To Class: ClassName=U_Connector_Section Member=Component J3 B13B-PH-K-S(LF)(SN)

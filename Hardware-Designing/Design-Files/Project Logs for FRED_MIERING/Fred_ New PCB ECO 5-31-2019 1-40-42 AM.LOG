@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=ESP_LT Pin=R9-1
+Removed Pin From Net: NetName=ESP_FOG Pin=R10-1
+Removed Pin From Net: NetName=ESP_IGNSIG Pin=R11-1
+Removed Pin From Net: NetName=ESP_RT Pin=R12-1
+Removed Pin From Net: NetName=ESP_PR Pin=R14-1
+Removed Pin From Net: NetName=ESP_SL Pin=R15-1
+Removed Pin From Net: NetName=ESP_PL Pin=R16-1
+Removed Pin From Net: NetName=ESP_REV Pin=R17-1
+Removed Pin From Net: NetName=ESP_BATSIG Pin=R19-1
+Removed Pin From Net: NetName=3V3 Pin=R19-2
+Removed Member From Class: ClassName=U_Opto_Section Member=R9
+Removed Member From Class: ClassName=U_Opto_Section Member=R10
+Removed Member From Class: ClassName=U_Opto_Section Member=R11
+Removed Member From Class: ClassName=U_Opto_Section Member=R12
+Removed Member From Class: ClassName=U_Opto_Section Member=R14
+Removed Member From Class: ClassName=U_Opto_Section Member=R15
+Removed Member From Class: ClassName=U_Opto_Section Member=R16
+Removed Member From Class: ClassName=U_Opto_Section Member=R17
+Removed Member From Class: ClassName=U_Opto_Section Member=R19
+Added Component: Designator=R3(Res0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-073K3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.024, 100=0.0097, 1000=0.00437, 2500=0.00379 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "3.3kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6863000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-3.30KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800um"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ESP_LT Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=ESP_FOG Pin=R9-1
+Added Pin To Net: NetName=ESP_RT Pin=R10-1
+Added Pin To Net: NetName=ESP_PR Pin=R11-1
+Added Pin To Net: NetName=ESP_SL Pin=R12-1
+Added Pin To Net: NetName=ESP_PL Pin=R14-1
+Added Pin To Net: NetName=ESP_REV Pin=R15-1
+Added Pin To Net: NetName=ESP_BATSIG Pin=R16-1
+Added Pin To Net: NetName=ESP_IGNSIG Pin=R17-1
+Added Member To Class: ClassName=U_Controller_Section Member=Component R3 3.3K
+Added Member To Class: ClassName=U_Controller_Section Member=Component R9 3.3K
+Added Member To Class: ClassName=U_Controller_Section Member=Component R10 3.3K
+Added Member To Class: ClassName=U_Controller_Section Member=Component R11 3.3K
+Added Member To Class: ClassName=U_Controller_Section Member=Component R12 3.3K
+Added Member To Class: ClassName=U_Controller_Section Member=Component R14 3.3K
+Added Member To Class: ClassName=U_Controller_Section Member=Component R15 3.3K
+Added Member To Class: ClassName=U_Controller_Section Member=Component R16 3.3K
+Added Member To Class: ClassName=U_Controller_Section Member=Component R17 3.3K
+Added Member To Class: ClassName=U_Opto_Section Member=Component R30 200R

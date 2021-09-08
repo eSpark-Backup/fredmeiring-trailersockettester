@@ -1,0 +1,83 @@
+Added Component: Designator=Q3(SOT23-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T7(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T8(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T9(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T10(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T11(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T12(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T13(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T14(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T15(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T16(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T17(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=Q3-1
+Added Pin To Net: NetName=VCC Pin=Q3-2
+Added Pin To Net: NetName=VBAT Pin=Q3-3
+Added Pin To Net: NetName=RTS Pin=T7-1
+Added Pin To Net: NetName=DTR Pin=T8-1
+Added Pin To Net: NetName=AN_1 Pin=T9-1
+Added Pin To Net: NetName=AN_2 Pin=T10-1
+Added Pin To Net: NetName=AN_4 Pin=T11-1
+Added Pin To Net: NetName=AN_5 Pin=T12-1
+Added Pin To Net: NetName=AN_6 Pin=T13-1
+Added Pin To Net: NetName=AN_7 Pin=T14-1
+Added Pin To Net: NetName=AN_8 Pin=T15-1
+Added Pin To Net: NetName=AN_9 Pin=T16-1
+Added Pin To Net: NetName=AN_10 Pin=T17-1
+Added Member To Class: ClassName=U_Power_Section Member=Component Q3 DMP2045U-7
+Added Member To Class: ClassName=Top_Sheet Member=Component T7 Socket
+Added Member To Class: ClassName=Top_Sheet Member=Component T8 Socket
+Added Member To Class: ClassName=U_Opto_Section Member=Component T9 Socket
+Added Member To Class: ClassName=U_Opto_Section Member=Component T10 Socket
+Added Member To Class: ClassName=U_Opto_Section Member=Component T11 Socket
+Added Member To Class: ClassName=U_Opto_Section Member=Component T12 Socket
+Added Member To Class: ClassName=U_Opto_Section Member=Component T13 Socket
+Added Member To Class: ClassName=U_Opto_Section Member=Component T14 Socket
+Added Member To Class: ClassName=U_Opto_Section Member=Component T15 Socket
+Added Member To Class: ClassName=U_Opto_Section Member=Component T16 Socket
+Added Member To Class: ClassName=U_Opto_Section Member=Component T17 Socket
